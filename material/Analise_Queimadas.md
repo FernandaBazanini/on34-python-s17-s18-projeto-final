@@ -5,6 +5,12 @@ Reprograma Turma On34
 
 Integrantes: Maria Eduarda Quaresma de Andrade e Fernanda da Silva Bazanini
 
+# Materiais
+
+Atualizamos recentemente nosso [dashboard do Tableau], que contém as análises mais recentes do projeto. Acesse o link para visualizar os dados detalhados: https://public.tableau.com/views/AnlisedeQueimadas-Projeto/ComparaodaSecuraeRiscodeFogoentreosEstados?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+Disponibilizamos também os [slides de apresentação] atualizados, onde você pode conferir os principais pontos e conclusões do projeto. Veja o link para acessar: https://www.canva.com/design/DAGTOYf96Gg/Rc6ubGolKdAGacsVHv5ghA/edit?utm_content=DAGTOYf96Gg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 # Contexto
 
 Este projeto foi desenvolvido para analisar as ocorrências de queimadas nas regiões do Distrito Federal e São Paulo. A proposta é identificar padrões e tendências relacionadas ao risco de fogo, número de dias sem chuva e precipitação a partir de dados coletados, visando contribuir para a formulação de políticas públicas que ajudem a mitigar as queimadas.
